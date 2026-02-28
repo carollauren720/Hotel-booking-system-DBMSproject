@@ -7,16 +7,16 @@
 ##Website UI
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](backend/screenshots/dashboard.png)
 
 ### Rooms
-![Rooms](screenshots/rooms.png)
+![Rooms](backend/screenshots/rooms.png)
 
 ### Bookings
-![Bookings](screenshots/bookings.png)
+![Bookings](backend/screenshots/bookings.png)
 
 ### Payments
-![Payments](screenshots/payments.png)
+![Payments](backend/screenshots/payments.png)
 
 ---
 
